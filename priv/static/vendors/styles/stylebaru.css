@@ -1,0 +1,5 @@
+.small-title {
+    font-size: 12px; /* Ukuran font yang lebih kecil */
+    margin: 0; /* Menghapus margin untuk h1 */
+    color: black; /* Warna teks */
+}
