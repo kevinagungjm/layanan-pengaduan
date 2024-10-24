@@ -19,6 +19,7 @@ defmodule LayananPengaduanWeb.Router do
 
     get "/", PageController, :home
     get "/form", PageController, :form
+    get "dashboard", PageController, :form
   end
 
   # Other scopes may use custom stacks.
