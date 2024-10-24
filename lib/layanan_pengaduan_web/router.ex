@@ -21,7 +21,7 @@ defmodule LayananPengaduanWeb.Router do
     get "/form", PageController, :form
     get "dashboard", PageController, :form
     get "/about", AboutController, :index
-    get "/timeline", TimlineController, :timeline
+    get "/timeline", TimelineController, :timeline
 
   end
 
